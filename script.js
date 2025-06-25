@@ -1,5 +1,5 @@
 function christmasCountDown(){
-    const christmasDate = new Date("October 21, 2023 13:04");
+    const christmasDate = new Date("December 24, 2025 00:00");
     const now = new Date();
     const diff = christmasDate - now;
     const msInSeconds = 1000;
@@ -39,7 +39,12 @@ function christmasCountDown(){
     body.style.backgroundImage = "url('home.jpeg.jpg')";
    }
 
-   const button = document.querySelector("#myButton");
+   const button = document.querySelector("#playButton");
    button.addEventListener("click", function(){
    document.querySelector("#myAudio").play();
    })
+
+   const stopButton = document.querySelector("#stopButton");
+   stopButton.addEventListener("click", function(){
+   document.querySelector("#myAudio").pause();
+  });
