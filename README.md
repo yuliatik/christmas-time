@@ -8,7 +8,7 @@ A simple website that displays a countdown to Christmas and allows you to play a
 
 Find Demo-version here:  https://x-mas-time.netlify.app/
 
-## Features
+## 🌤 Features
 
 - Countdown timer showing days, hours, minutes, and seconds until December 24, 2025.
 - Smooth timer updates every second.
@@ -17,7 +17,8 @@ Find Demo-version here:  https://x-mas-time.netlify.app/
 
 ---
 
-## Technologies Used
+ ## 🛠 Technologies Used
+
 
 - HTML5
 - CSS3 
@@ -25,7 +26,7 @@ Find Demo-version here:  https://x-mas-time.netlify.app/
 
 ---
 
-## How the Timer Works
+## 🔧 How It Works
 
 - The timer calculates the difference between the current date and December 24, 2025.
 - It computes days, hours, minutes, and seconds remaining.
@@ -44,10 +45,10 @@ Find Demo-version here:  https://x-mas-time.netlify.app/
 
 ---
 
-## License
+📌 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
+This project was created as part of a learning exercise and is intended for educational use only.
 Feel free to ask questions or suggest improvements!
